@@ -1,0 +1,19 @@
+{
+  "name": "genesys",
+  "version": "1.0.0",
+  "description": "Generate images from prompt text using twitter.",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "dotenv": "^16.0.3"
+  },
+  "dependencies": {
+    "crypto": "^1.0.1",
+    "needle": "^3.2.0",
+    "node-fetch": "^3.3.0",
+    "oauth-1.0a": "^2.2.6",
+    "openai": "^3.1.0",
+    "query-string": "^7.1.1"
+  },
+  "type": "module"
+}
